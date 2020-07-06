@@ -1,1 +1,2 @@
-# pay_gate
+pip install -r req.txt
+bash start.sh
